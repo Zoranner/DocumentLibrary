@@ -1,6 +1,6 @@
-/.history
-/.vs
-/DocumentLibrary/bin
-/DocumentLibrary/obj
-/packages
+/**/.history
+/**/.vs
+/**/bin
+/**/obj
+/**/packages
 *.*~
